@@ -1,7 +1,7 @@
 # Jupyter notebook checkpoints #
 
-**/.ipynb_checkpoints
-**/tmp
+**/.ipynb_checkpoints/
+/tmp
 
 # Datasets #
 *.csv
